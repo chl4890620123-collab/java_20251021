@@ -1,0 +1,16 @@
+package test;
+
+public class sample {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello, Java");
+		System.out.println("Hello, Java");
+	char var1 ='A';
+	char c1= 65;
+	
+	char var2 ='가';
+	char c2= 44032;
+	}
+
+}
